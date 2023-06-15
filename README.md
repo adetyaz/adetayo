@@ -2,9 +2,8 @@
 
 ## 🚀 About Me
 
-🤓 I am Lasisi Adetayo, a **Front End Web Developer** (specializing in **React Applications**), I am currently exploring **Accessibility**, **Animations and Transitions** with **Framer-Motion**, **Design systems** with **Styled-components** and **Storybookjs**.  I am really enthusiastic about learning new technology I'm looking forward to become better working with **GraphQl**, also I want to learn **Typescript**, **Micro-Frontend Architecture** and **Blockchain development & DApps**. I also intend to get back to **Technical Writing and Api Documentation**
+🤓 I am Lasisi Adetayo, a **Front End Web Developer** (specializing in **React Applications**), I am currently exploring **Accessibility**, **Animations and Transitions** with **Framer-Motion**,  I am really enthusiastic about learning new technology I'm looking forward to become better working with **GraphQl**, also I want to learn **Typescript**, **Micro-Frontend Architecture** and **Blockchain development & DApps**. I also intend to get back to **Technical Writing and Api Documentation**
 
-👨🏿‍🍳 Outside the world of tech too, I enjoy pushing myself to develop new skills. I am currently learning to play the **Piano/Keyboard**. I enjoy **Cooking**, **playing games**, **eating** and hanging out with my cat **Reggie**🐈
 
 ## 🛠️ Skills
 
@@ -34,6 +33,6 @@
 ## 🔗 Links
 
 
-[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1qtSQ5GGPD3HTudAlgihdrpY0n7spG2kh/view?usp=sharing)
+[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://docs.google.com/document/d/10vv4RQ7QLOrYPOoZM2hW6DUVEzo567HFG9Q9eO-Do30/edit?usp=sharing)
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/lasisi-adetayo-aab8b722a)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:adetayo.lasisi@gmail.com)
